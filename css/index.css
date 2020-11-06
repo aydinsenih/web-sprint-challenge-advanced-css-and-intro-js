@@ -136,8 +136,8 @@ button:hover{
 }
 
 @media(max-width:500px){
-    .nav{
-        width: 80%;
+    nav{
+        width: 70%;
     }
 
     .artists-container{
